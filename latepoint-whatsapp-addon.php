@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: LatePoint WhatsApp Addon
- * Plugin URI: https://latepoint.com
+ * Plugin Name: LatePoint WhatsApp OTP
+ * Plugin URI: https://github.com/Hari-Bonda/latepoint-whatsapp-otp/
  * Description: An addon for LatePoint to send OTPs via WhatsApp using Meta Cloud API.
  * Version: 1.0.0
- * Author: LatePoint
- * Text Domain: latepoint-whatsapp-addon
+ * Author: Hari Bonda
+ * Text Domain: latepoint-whatsapp-otp
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -19,3 +19,4 @@ require_once LATEPOINT_WHATSAPP_ADDON_PATH . 'WhatsAppMetaHelper.php';
 
 // Initialize the addon
 OsWhatsAppMetaAddonHelper::init();
+
