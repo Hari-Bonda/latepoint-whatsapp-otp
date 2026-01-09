@@ -1,4 +1,4 @@
-# LatePoint WhatsApp Addon
+# LatePoint WhatsApp OTP
 
 **Version:** 1.0.0  
 **Author:** Hari Bonda
